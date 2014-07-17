@@ -1,0 +1,28 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: libdvdread-4.2.1.zip
+       Short Description: libdvdread v4.2.1 for OS/2
+        Long Description: libdvdread v4.2.1 for OS/2.
+The forked version by MPlayer team. Low level DVD access library.
+
+      Proposed directory
+           for placement: /pub/os2/dev/mm
+
+               Your name: KO Myung-Hun
+           Email address: komh@chollian.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: kLIBC065, UDF support, libdvdcss 1.2.13
+
+                Replaces: (none)
+
+
+
